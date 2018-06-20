@@ -1,0 +1,18 @@
+This is a git repo for face recognition code in Python.
+
+The code application here will have two parts:
+1. Training
+2. Application
+
+Training part consists of:
+1. Face Detection from images
+2. Capture Features of the faces
+3. Store with Label
+
+Application part consists of:
+1. Face Detection from images
+2. Capture Features of the faces
+3. Compare to training features
+4. Predict
+
+Do refer to another git repo for face detection.
